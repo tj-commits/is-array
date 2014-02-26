@@ -1,13 +1,10 @@
-<a href="https://jepso-ci.com/yields/isArray">
-  <img src="https://jepso-ci.com/yields/isArray.svg" align="right" alt="jepso-ci status" />
-</a>
-# isArray
+# is-array
 
   Check if the given `value` is an `Array`.
 
 ## Installation
 
-    $ component install yields/isArray
+    $ component install retrofox/is-array
 
 ## API
 
