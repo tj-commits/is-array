@@ -1,4 +1,11 @@
 
+1.0.1 / 2014-02-26 
+==================
+
+  * pck: bump npm version
+  * ignoring compiled and npm debug files
+  * add package file
+
 1.0.0 / 2013-02-01 
 ==================
 

@@ -1,9 +1,9 @@
 {
-  "name": "isArray",
-  "repo": "yields/isArray",
+  "name": "is-array",
+  "repository": "retrofox/is-array",
   "description": "Check if the given value is an Array",
-  "version": "1.0.0",
-  "keywords": ["isArray", "es5", "array"],
+  "version": "1.0.1",
+  "keywords": ["is-array", "es5", "array"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
