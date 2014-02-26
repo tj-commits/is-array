@@ -3,7 +3,7 @@
   "name": "is-array",
   "repository": "retrofox/is-array",
   "description": "Check if the given value is an Array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["isArray", "es5", "array"],
   "dependencies": {},
   "license": "MIT"
