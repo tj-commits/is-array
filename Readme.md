@@ -6,6 +6,10 @@
 
     $ component install retrofox/is-array
 
+or
+
+    $ npm install is-array
+
 ## API
 
 ### isArray(val)
